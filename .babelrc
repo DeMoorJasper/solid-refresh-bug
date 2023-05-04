@@ -1,0 +1,4 @@
+{
+    "presets": ["@babel/preset-env", "@babel/preset-typescript", "babel-preset-solid"],
+    "plugins": ["@babel/plugin-syntax-dynamic-import", "solid-refresh/babel", "@babel/plugin-transform-modules-commonjs"]
+}
